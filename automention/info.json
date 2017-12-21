@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "irdumb#1229",
+    "INSTALL_MSG" : "This cog currently doesn't have any commands and is activated on all servers.",
+    "NAME" : "Auto Mention",
+    "SHORT" : "Automatically mentions a user if their name is typed.",
+    "DESCRIPTION" : "If a user types someone's name without the @ symbol the bot will automatically mention them.",
+    "TAGS" : ["auto", "mention", "name"]
+}
